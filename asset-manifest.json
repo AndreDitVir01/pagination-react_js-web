@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pagination-react_js-web/static/css/main.050523cc.chunk.css",
+    "main.js": "/pagination-react_js-web/static/js/main.db9b5227.chunk.js",
+    "main.js.map": "/pagination-react_js-web/static/js/main.db9b5227.chunk.js.map",
+    "runtime-main.js": "/pagination-react_js-web/static/js/runtime-main.06c55681.js",
+    "runtime-main.js.map": "/pagination-react_js-web/static/js/runtime-main.06c55681.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/pagination-react_js-web/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fcd0c435.chunk.js": "/pagination-react_js-web/static/js/2.fcd0c435.chunk.js",
+    "static/js/2.fcd0c435.chunk.js.map": "/pagination-react_js-web/static/js/2.fcd0c435.chunk.js.map",
+    "index.html": "/pagination-react_js-web/index.html",
+    "precache-manifest.43132f9829e15322fb70a051518956ca.js": "/pagination-react_js-web/precache-manifest.43132f9829e15322fb70a051518956ca.js",
+    "service-worker.js": "/pagination-react_js-web/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/pagination-react_js-web/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.050523cc.chunk.css.map": "/pagination-react_js-web/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.fcd0c435.chunk.js.LICENSE.txt": "/pagination-react_js-web/static/js/2.fcd0c435.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06c55681.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fcd0c435.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.db9b5227.chunk.js"
+  ]
+}
